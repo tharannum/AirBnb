@@ -18,6 +18,7 @@ The dashboard transforms raw Airbnb data into an **interactive visual report** t
 
 The goal is to deliver **clear, data-driven insights** that help understand how Airbnb listings evolve across cities and time.
 
+![airbnb]( https://github.com/tharannum/AirBnb/blob/main/airbnb.png)
 ---
 
 # Global Performance Dashboard
@@ -197,6 +198,8 @@ Cities such as **Paris, New York City, and Sydney** account for **nearly half of
 ### Insight 4 — Paris Leading the Market
 
 Paris holds the **largest number of listings and reviews**, possibly due to the high cost of hotels compared to Airbnb accommodations.
+
+![performance](https://github.com/tharannum/AirBnb/blob/main/performance.png)
 
 ---
 
